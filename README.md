@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+A comprehensive banking analytics platform aimed at automating and simplifying financial data analysis. The system integrates Flask, Python, and custom neural network algorithms to process and analyze large volumes of transactional data securely and efficiently.
+>>>>>>> 9cf7e07723b4ed25c9ea0d24b1b1e4ce342e72b6
