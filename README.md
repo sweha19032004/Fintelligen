@@ -1,0 +1,1 @@
+A comprehensive banking analytics platform aimed at automating and simplifying financial data analysis. The system integrates Flask, Python, and custom neural network algorithms to process and analyze large volumes of transactional data securely and efficiently.
